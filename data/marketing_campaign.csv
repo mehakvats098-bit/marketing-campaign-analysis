@@ -1,0 +1,16 @@
+Campaign_ID,Channel,Campaign_Type,Target_Audience,Impressions,Clicks,Conversions,Spend,Revenue
+C001,Instagram,Social Media,Students,12000,720,85,15000,42000
+C002,Google Ads,Search,Professionals,18000,1080,120,25000,68000
+C003,Facebook,Social Media,Adults,15000,900,95,18000,51000
+C004,Email,Email,Existing Customers,8000,640,110,6000,39000
+C005,YouTube,Video,Students,20000,1000,105,22000,55000
+C006,Google Ads,Search,Adults,22000,1320,145,30000,82000
+C007,Instagram,Social Media,Professionals,14000,840,90,16000,47000
+C008,Email,Email,Existing Customers,9000,720,125,7000,44000
+C009,Facebook,Social Media,Students,16000,960,100,19000,53000
+C010,YouTube,Video,Adults,21000,1050,115,24000,62000
+C011,Google Ads,Search,Professionals,24000,1440,160,32000,91000
+C012,Instagram,Social Media,Adults,13000,780,82,14500,41000
+C013,Email,Email,Existing Customers,7500,600,105,5500,37000
+C014,Facebook,Social Media,Professionals,17000,1020,108,20000,57000
+C015,YouTube,Video,Students,19000,950,98,21000,52000
